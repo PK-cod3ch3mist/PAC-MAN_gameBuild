@@ -1,5 +1,5 @@
 # PAC-MAN_gameBuild
-A simple version of Pac-Man written in C++
+A simple version of Pac-Man written in C++. Needs no graphics support. Entirely based on ASCII art/characters!!
 
 The file pac.cpp contains code that will work on any macOS machine.
 The file Pac_linux.cpp contains code that will work on any linux machine.
